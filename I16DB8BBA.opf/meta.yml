@@ -1,0 +1,39 @@
+id: I16DB8BBA
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T10:29:20.109785'
+last_modified: '2022-06-19T10:29:20.109841'
+parser: null
+source_metadata:
+  title: Hagiography of rDo ring kun spangs chen po Kun bzang chos kyi nyi ma (1449–1524);
+    Lamdre Lobshe, vol. kha, title no. 3
+  author: ཚར་ཆེན་ཆོས་རྗེ་བློ་གསལ་རྒྱ་མཚོ།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2013-08-26);
+    converted from external file, unrevised, spell-checked, notes implemented, thematic
+    TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:རྫོང་སར་ཁམས་བྱེའི་ལྔ་རིག་སློབ་གླིང་། སྡེ་དགེ་རྫོང་སར། (dzkj)
+  - Editorial process:Mathias Fermer (mf), Kunga Dorje (kun)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:Kunga Dorje (kun)
+  text_witnesses: https://sakyaresearch.org/sources/384
+  bases:
+    38f6:
+      title: Hagiography of rDo ring kun spangs chen po Kun bzang chos kyi nyi ma
+        (1449–1524); Lamdre Lobshe, vol. kha, title no. 3
+      order: 1
+      base_file: 38f6.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
